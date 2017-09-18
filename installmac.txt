@@ -1,0 +1,15 @@
+can you please add instructions on how to install in mac getting error
+
+
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:142: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:143: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:143: Font TU/Flama(0)/m/n/10.95=[FlamaLight.otf]/OT at 10.95pt not loadable: Metric (TFM) file or installed font not found. [...ight,BoldFont=*Medium,ItalicFont=*Italic]]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:315: Package minted Error: You must invoke LaTeX with the -shell-escape flag. [\renewcommand]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:315: Package minted Error: You must have `pygmentize' installed to use this package. [\renewcommand]
+/Users/mark/hri-beamer-theme/beamerthemehri.sty:315: LaTeX Error: File `.minted-presentation/default.pygstyle' not found. [\renewcommand]
