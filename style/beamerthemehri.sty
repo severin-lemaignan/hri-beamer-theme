@@ -231,6 +231,8 @@
 }
 \newcommand{\insertSECTION}{%
     \MakeUppercase{\insertsection}
+    %\expandafter\insertsectionaux\insertsection}
+    %\newcommand{\insertsectionaux}[3]{\MakeUppercase{#3}
 }
 
 \if@doSectionPage\@empty
@@ -242,7 +244,7 @@
 \setbeamertemplate{background}{}
 \setbeamercolor{background canvas}{bg=hriWarmGreyDark}
 \begin{frame}[plain]
-\vfill\usebeamerfont{section title}\textcolor{white}{\rule{\paperwidth}{1pt}\\\insertsectionHEAD}\vfill
+\vfill\usebeamerfont{section title}\textcolor{white}{\rule{\paperwidth}{1pt}\\\insertSECTION}\vfill
 \end{frame}
 \endgroup
 }
