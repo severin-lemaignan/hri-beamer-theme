@@ -13,7 +13,9 @@ pre-compiled demo presentation](https://github.com/severin-lemaignan/hri-beamer-
 To compile, simply run `make`. This Beamer theme requires `lualatex` for
 compilation (available in the [TeX Live distribution](https://www.tug.org/texlive/) for example).
 
-It also looks nicer if the Flama font is installed in your system.
+It also looks nicer if the Flama font is installed in your system. You can
+download it from eg here:
+[https://www.cufonfonts.com/font/flama](www.cufonfonts.com/font/flama)
 
 Special commands in this theme
 ------------------------------
