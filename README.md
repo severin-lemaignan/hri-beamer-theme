@@ -36,7 +36,7 @@ Note that the picture's aspect ratio is respected.
 - `scale`: a scaling factor (useful to add a small margin around the picture for
   instance). Defaults to 1.0.
 
-**Due to the inner working o TikZ, you may have to compile your presentation
+**Due to the inner workings of TikZ, you may have to compile your presentation
 twice to get the background image to appear!**
 
 Alternatively, you can use this syntax to set a background image for any slide:
